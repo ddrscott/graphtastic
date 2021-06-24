@@ -6,4 +6,4 @@ We have `docker-compose.yml` to start up a database and connect PostGraphile to 
 
 The Dockerfile adds some useful plugins.
 
-<img src='screen.png' />
+<img src='screen2.png' />
