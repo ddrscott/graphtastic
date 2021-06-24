@@ -4,4 +4,6 @@ This is a simple example project using the excellent https://www.graphile.org/po
 
 We have `docker-compose.yml` to start up a database and connect PostGraphile to it.
 
-The Dockerfile whi
+The Dockerfile adds some useful plugins.
+
+<img src='screen.png' />
