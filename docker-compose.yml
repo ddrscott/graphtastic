@@ -17,6 +17,7 @@ services:
     command: ['--connection', 'postgresql://postgres:password@db:5432/postgres',
               '--schema', 'public',
               '--watch',
+              '--dynamic-json',
               '--enhance-graphiql',
               '--no-ignore-rbac',
               '--cors', 
